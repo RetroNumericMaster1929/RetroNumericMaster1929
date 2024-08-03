@@ -22,3 +22,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS Statistics" alt="SPSS" width="50" height="50"/>&nbsp;
 </div>
+
+<h2 align ="center">
+📈 My Github Statistics 
+</h2>
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RetroNumericMaster1929&theme=moonlight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RetroNumericMaster1929&theme=moonlight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RetroNumericMaster1929&theme=moonlight)
