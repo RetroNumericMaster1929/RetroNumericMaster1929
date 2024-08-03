@@ -1,7 +1,11 @@
 <div id="header" align="center">
 <h1>Emmanuel Rivera López</h1>
 </div>
+<div align="center">
 
+</div>
+  
+</a>
 <div id="header" align="center">
 <h1>
 <b> Actuarial Science Student | Aspiring Programming Specialist </b>
