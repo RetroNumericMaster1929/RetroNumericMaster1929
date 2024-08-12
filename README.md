@@ -22,6 +22,7 @@ I'm passionate about programming, and my aim in life is to acquire as much knowl
 <div align = "center">
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" alt="LaTex" width="50" height="50"/> </code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" title="Tex" alt="Tex" width="50" height="50"/> </code>
+  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="C++" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="JPYNB" width="50" height="50"/> </code>
@@ -29,8 +30,9 @@ I'm passionate about programming, and my aim in life is to acquire as much knowl
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS Statistics" alt="SPSS" width="50" height="50"/> </code>
-  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="SQL" width="50" height="50"/> </code>
-  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="GitHub" width="50" height="50"/> </code> <br>
+  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="SQL" width="50" height="50"/> </code> <br>
+  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="GitHub" width="50" height="50"/> </code> 
+  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original-wordmark.svg" title="Spyder" alt="Spyder" width="50" height="50"/> </code>
 </div>
