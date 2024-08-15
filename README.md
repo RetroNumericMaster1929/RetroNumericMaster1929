@@ -10,6 +10,7 @@
 <h1>
 <b> Actuarial Science Student | Aspiring Programming Specialist </b>
 </h1>
+<img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-3.gif" alt="Math GIF" width="1000" height="850"/>
 </div>
 <h2 align="center"> About Me </h2>
 <p style="text-align: justify;">
