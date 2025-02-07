@@ -37,6 +37,7 @@ I'm passionate about programming, and my aim in life is to acquire as much knowl
   <code> <img src="https://github.com/RetroNumericMaster1929/RetroNumericMaster1929/blob/main/images/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original-wordmark.svg" title="Spyder" alt="Spyder" width="50" height="50"/> </code>
+  <code> <img src="https://github.com/RetroNumericMaster1929/RetroNumericMaster1929/blob/main/images/powershell-original.svg" title="Spyder" alt="Powershell" width="50" height="50"/> </code>
 </div>
 
 <h2 align ="center">
