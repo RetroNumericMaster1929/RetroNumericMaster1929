@@ -31,8 +31,8 @@ I'm passionate about programming, and my aim in life is to acquire as much knowl
   <code> <img src="https://github.com/RetroNumericMaster1929/RetroNumericMaster1929/blob/main/images/css3-original.svg" title="CSS" alt="HTML" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="50" height="50"/> </code>
-  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS Statistics" alt="SPSS" width="50" height="50"/> </code>
-  <code> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="mySQL" alt="SQL" width="50" height="50"/> </code> <br>
+  <code> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS Statistics" alt="SPSS" width="50" height="50"/> </code> <br>
+  <code> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="mySQL" alt="SQL" width="50" height="50"/> </code> 
   <code> <img src="https://github.com/RetroNumericMaster1929/RetroNumericMaster1929/blob/main/images/github-original-wordmark.svg" title="Github" alt="GitHub" width="50" height="50"/> </code> 
   <code> <img src="https://github.com/RetroNumericMaster1929/RetroNumericMaster1929/blob/main/images/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/> </code>
