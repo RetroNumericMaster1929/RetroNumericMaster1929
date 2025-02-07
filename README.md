@@ -28,6 +28,7 @@ I'm passionate about programming, and my aim in life is to acquire as much knowl
   <code> <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python" alt="Py" width="50" height="50"/> </code>
   <code> <img src="https://github.com/RetroNumericMaster1929/RetroNumericMaster1929/blob/main/images/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="JPYNB" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/> </code>
+  <code> <img src="https://github.com/RetroNumericMaster1929/RetroNumericMaster1929/blob/main/images/css3-original.svg" title="CSS" alt="HTML" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="50" height="50"/> </code>
   <code> <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS Statistics" alt="SPSS" width="50" height="50"/> </code>
