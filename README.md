@@ -49,7 +49,7 @@ I'm passionate about programming, and my aim in life is to acquire as much knowl
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RetroNumericMaster1929&theme=moonlight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RetroNumericMaster1929&theme=moonlight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RetroNumericMaster1929&theme=moonlight)
-
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=RetroNumericMaster1929)
 <h2 align="center">👨‍💻 <b> Practical Repositories </b>👨‍💻</h2>
 <div width="100%" align="center">
 <a align="left" href=https://github.com/RetroNumericMaster1929/Regression-Analysis-and-Generalized-Linear-Models title="Regression Analysis"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RetroNumericMaster1929&repo=Regression-Analysis-and-Generalized-Linear-Models&theme=algolia&border_color=61dafb&border_radius=10"></a>
