@@ -8,7 +8,7 @@
 </a>
 <div id="header" align="center">
 <h1>
-<b> Actuarial Science Student | Aspiring Programming Specialist </b>
+<b> Actuarial Science Undergraduate | Aspiring Programming Specialist </b>
 </h1>
 <!-- img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="550"/!-->
 <img src = "https://www.thisiscolossal.com/wp-content/uploads/2024/01/circletodoublespiral.gif" alt="Math GIF" width="1000" height="750"/>
