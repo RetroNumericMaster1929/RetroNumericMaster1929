@@ -15,7 +15,7 @@
 </div>
 <h2 align="center"> About Me </h2>
 <p style="text-align: justify;">
-I'm a Actuarial Science student, and an amateur young researcher; my current research interests stem in <b> general coding, analysis in manifolds, advanced high-dimensional probability theory, stochastic modeling and operational research models, applied in actuarial and insurance sectors.</b> I have quite strong knowledge in High-level Programming Languages (Python, C, C++, R, Visual Basic, Java), web programming (HTML, Javascript and PHP) and LaTex text and editorial design. <br><br>
+I'm a Actuarial Science Undergraduate, and an amateur young researcher; my current research interests stem in <b> general coding, analysis in manifolds, advanced high-dimensional probability theory, stochastic modeling and operational research models, applied in actuarial and insurance sectors.</b> I have quite strong knowledge in High-level Programming Languages (Python, C, C++, R, Visual Basic, Java), web programming (HTML, Javascript and PHP) and LaTex text and editorial design. <br><br>
 
 I'm passionate about programming, and my aim in life is to acquire as much knowledge as possible to pave the way for a distinguished career in Actuarial Science and Computer Science.
 </p>
